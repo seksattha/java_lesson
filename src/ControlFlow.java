@@ -30,5 +30,20 @@ public class ControlFlow {
 
         System.out.println("Day of the week is: " + dayName);
 
+        // LOOP
+            //for loop
+        for (int count = 0; count<20; count++){
+            System.out.println(count);
+        }
+            //while loop
+        int count = 1;
+        while (count < 5){
+            System.out.println("Count : " + count);
+            count++;
+        }
+            // do-while loop
+
+
+
     }
 }
